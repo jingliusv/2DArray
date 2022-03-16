@@ -1,6 +1,6 @@
 # Solution of the 2DArray problem from HackerRank
 ## Objective
-Today, we are building on our knowledge of arrays by adding another dimension. Check out the Tutorial tab for learning materials and an instructional video. 
+There are 16 hourglasses in A, and an hourglass sum is the sum of an hourglass' values. Calculate the hourglass sum for every hourglass in A, then print the maximum hourglass sum. 
 
 ## Context
 Given a 6 x 6 2D Array, A:
